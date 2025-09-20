@@ -21,12 +21,13 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" /> I am a student at <a href="https://daihoc.fpt.edu.vn/">FPT University</a>.<br>
-  <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" /> Currently working on **Deep Learning, Anomaly Detection, and Spiking Neural Networks (SNN)**.<br>
+  <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" /> I am a student at <a href="https://daihoc.fpt.edu.vn/"><b>FPT University</b></a>.<br>
+  <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" /> Currently working on <b>Deep Learning, Anomaly Detection, and Spiking Neural Networks (SNN)</b>.<br>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30" /> Open for collaborations and global opportunities.<br>
   <br>
-  📫 Reach me at: **chinjsu130205@gmail.com**, **minhtringuyen130205@gmail.com**
+  📫 Reach me at: <b>chinjsu130205@gmail.com</b>, <b>minhtringuyen130205@gmail.com</b>
 </p>
+
 
 ---
 
