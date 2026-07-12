@@ -79,13 +79,5 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mintii13&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" style="width: 100%; max-width: 600px;" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintii13&theme=tokyonight" alt="GitHub Streak" style="width: 100%; max-width: 600px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintii13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 100%; max-width: 500px;" />
 </p>
